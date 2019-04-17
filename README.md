@@ -15,8 +15,13 @@
 Υλικά που θα χρειαστούν:
 1. Arduino Uno
 2. i-button serial number(DS1990 - ROM only 64 bit), 1-Wire protocol
+https://www.maximintegrated.com/en/products/ibutton/memory-products/DS1990A.html
 3. i-button reader (DS9092 - Touch probe read head)
+https://www.maximintegrated.com/en/products/ibutton/ibutton/DS9092.html
 4. Οθόνη LCD 16x2
 5. Relay module
 6. Ηλεκτρικό Κυπρί πόρτας
+https://stokostos.gr/alarm/ilektromagnitikes/aei-dls-81.html
+
+
 
