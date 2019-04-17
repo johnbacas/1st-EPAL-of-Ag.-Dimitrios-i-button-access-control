@@ -24,3 +24,4 @@ https://www.maximintegrated.com/en/products/ibutton/ibutton/DS9092.html
 https://stokostos.gr/alarm/ilektromagnitikes/aei-dls-81.html
 
 Το κύκλωμα:
+![AccessControlCircuit](https://user-images.githubusercontent.com/7252559/56303159-002b0300-6144-11e9-97eb-e698b56914a3.jpg)
