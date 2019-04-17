@@ -23,5 +23,4 @@ https://www.maximintegrated.com/en/products/ibutton/ibutton/DS9092.html
 6. Ηλεκτρικό Κυπρί πόρτας
 https://stokostos.gr/alarm/ilektromagnitikes/aei-dls-81.html
 
-
-
+Το κύκλωμα:
