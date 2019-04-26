@@ -77,10 +77,11 @@ void loop() {
          }
          checkID(customID);
       }
-      delay(4000);   // wait for 4 sec to read message on LCD
+      delay(1200);   // wait for 1.2 sec and deactivate relay
    }
-   digitalWrite(13, LOW);     //Turn off LED
    digitalWrite(9, HIGH);     // Unset Relay, door cannot open
+   delay(2000);
+   digitalWrite(13, LOW);     //Turn off LED
    ds.reset_search(); // clear <addr> array
 }
 
