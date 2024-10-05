@@ -25,3 +25,7 @@ https://stokostos.gr/alarm/ilektromagnitikes/aei-dls-81.html
 
 Το κύκλωμα:
 ![AccessControlCircuit](https://user-images.githubusercontent.com/7252559/56303159-002b0300-6144-11e9-97eb-e698b56914a3.jpg)
+
+Δείτε το βίντεο στο παρακάτω link:
+
+[![YouTube Video](https://img.youtube.com/vi/1vuWFKG8IxQ/0.jpg)](https://youtu.be/1vuWFKG8IxQ)
